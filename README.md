@@ -1,1 +1,1 @@
-# games101
+# games101课程作业和基于OpenGl和OpenMesh的QEM网格化简算法
